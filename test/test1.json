@@ -1,0 +1,18 @@
+{
+  "body": {
+    "name": "TimereportStatusChangedEvent",
+    "body": {
+      "timereportId": "someid",
+      "year": 2021,
+      "week": 5,
+      "workplace": "Achima Care Stockholm",
+      "department": "Avdelning 31",
+      "bookingId": "602b74d224d97ee306c8aa5d",
+      "consultantId": "5fba8c0412b815e9ad1e592d",
+      "prevStatus": "Draft",
+      "currentStatus": "SubmittedByConsultant",
+      "userName": "some",
+      "userId": "user"
+    }
+  }
+}

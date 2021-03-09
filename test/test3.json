@@ -1,0 +1,11 @@
+{
+  "body": {
+    "name": "ConsultantSignedInToConsultantAppEvent",
+    "body": {
+      "consultantId": "5e1d707c0f3608ff0aa4a51c",
+      "consultantName": "Ted",
+      "firstTime": true
+    }
+  },
+  "Name": "ConsultantSignedInToConsultantAppEvent"
+}

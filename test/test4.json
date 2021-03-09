@@ -1,0 +1,16 @@
+{
+  "body": {
+    "name": "TimereportCreatedEvent",
+    "body": {
+      "timereportId": "123123123",
+      "bookingId": "",
+      "consultantId": "5fba8c0412b815e9ad1e592d",
+      "workplace": "Some hospital",
+      "department": "Some dept",
+      "startsOnUtc": "2021-03-03T13:51:03.540Z",
+      "week": 11,
+      "year": 2021
+    }
+  },
+  "Name": "TimereportCreatedEvent"
+}

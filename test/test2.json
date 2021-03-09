@@ -1,0 +1,15 @@
+{
+  "body": {
+    "name": "ConsultantAppliedForWorkrequestEvent",
+    "body": {
+      "consultantId": "sdfsdfdsfdsf",
+      "consultantName": "Dan The Dev",
+      "consultantComment": "No-Beer Friday :-(",
+      "workplace": "Bonliva AB",
+      "department": "IT-Avdelningen",
+      "workrequestId": "2sdfsfsdfsdfd",
+      "workrequestCrmUrl": "http://test.com"
+    }
+  },
+  "Name": "ConsultantAppliedForWorkrequestEvent"
+}
