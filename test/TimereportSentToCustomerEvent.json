@@ -1,0 +1,11 @@
+{
+  "body": {
+    "name": "TimereportSentToCustomerEvent",
+    "body": {
+      "timereportId": "603f4242c225d43ec4725eb2",
+      "sentByUserId": "123j",
+      "sentByUserName": "123"
+    }
+  },
+  "Name": "TimereportSentToCustomerEvent"
+}

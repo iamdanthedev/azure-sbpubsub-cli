@@ -1,0 +1,19 @@
+{
+  "body": {
+    "name": "TimereportStatusChangedEvent",
+    "body": {
+      timereportId: "",
+      year: number;
+      week: number;
+      workplace: string;
+      department: string;
+      bookingId: string;
+      consultantId: string;
+      status: string;
+      currentStatus: string;
+      userName: string;
+      userId: string,;
+    }
+  },
+  "Name": "TimereportStatusChangedEvent"
+}

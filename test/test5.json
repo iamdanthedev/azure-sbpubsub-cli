@@ -1,0 +1,15 @@
+{
+  "name": "BookingCreatedEvent",
+  "body": {
+    "bookingId": "605cb9aa21c2a141b4e03998",
+    "bookingGroupId": "605cb9aa21c2a141b4e03997",
+    "bookingWeek": "2021-05-03T00:00:00.000Z",
+    "consultantId": "5bb1e593a3bdc02da15bc6a9",
+    "consultantName": "Aara Rydenäs",
+    "workplaceName": "Testkunden vårdcentral Odensbacken",
+    "workRequestId": "605cb9aa21c2a141b4e03996",
+    "departmentName": "",
+    "userName": "Daniel Khoroshko",
+    "userId": "5ca25a5d47cce70021be7a23"
+  }
+}

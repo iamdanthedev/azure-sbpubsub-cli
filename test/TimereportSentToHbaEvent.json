@@ -1,0 +1,11 @@
+{
+  "body": {
+    "name": "TimereportSentToHbaEvent",
+    "body": {
+      "timereportId": "603f4242c225d43ec4725eb2",
+      "userId": "606417056be9a8d7ed299e32",
+      "userName": "Dan"
+    }
+  },
+  "Name": "TimereportSentToHbaEvent"
+}
