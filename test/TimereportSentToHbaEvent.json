@@ -7,5 +7,7 @@
       "userName": "Dan"
     }
   },
-  "Name": "TimereportSentToHbaEvent"
+  "applicationProperties": {
+    "Name": "TimereportSentToHbaEvent"
+  }
 }

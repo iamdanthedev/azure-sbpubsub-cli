@@ -23,7 +23,7 @@ async function main(fileName) {
 
     const filePath = path.resolve(fileName);
     const message = require(filePath);
-    message.body = JSON.stringify(message.body, null, 4);
+    // message.body = JSON.stringify(message.body);
 
     const client = new ServiceBusClient(connectionString);
     const sender = client.createSender(topicName);
