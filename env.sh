@@ -2,6 +2,6 @@
 #SB_TOPIC=danthedev
 
 #SB_CONNECTION_STRING=Endpoint=sb://bonliva-sb-danthedev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=krI6UXMXyMf6oZSIJV7t728qYDITzgCFtcTZhWe60sY=
-SB_CONNECTION_STRING=Endpoint=sb://bonliva-sb-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=1+Yb+hyk76vXzZC00Q3iY3cYN3dPqKT1alDSWdjCKHk=
-SB_TOPIC=main
-SB_SUB=danthedev
+export SB_CONNECTION_STRING=Endpoint=sb://bonliva-sb-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=1+Yb+hyk76vXzZC00Q3iY3cYN3dPqKT1alDSWdjCKHk=
+export SB_TOPIC=main
+export SB_SUB=danthedev
