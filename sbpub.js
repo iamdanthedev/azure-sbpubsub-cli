@@ -2,7 +2,6 @@
 
 require("dotenv/config");
 const { ServiceBusClient } = require("@azure/service-bus");
-const fs = require("fs");
 const path = require("path");
 
 const connectionString = process.env.SB_CONNECTION_STRING

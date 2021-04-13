@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "sbpub": "./index.js"
+    "sbpub": "./sbpub.js",
+    "sbsub": "./sbsub.js"
   },
   "keywords": [],
   "author": "",
