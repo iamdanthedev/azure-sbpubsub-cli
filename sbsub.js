@@ -39,7 +39,10 @@ async function main() {
         processError: myErrorHandler,
     });
 
-    await delay(99999999);
+    while (true) {
+        console.log("...");
+        await delay(5000);
+    }
 }
 
 main(process.argv[2])
