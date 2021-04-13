@@ -1,6 +1,6 @@
 ### Install
 
-`npm install -g sb-pubsub-cli`
+`npm install -g azure-sb-pubsub-cli`
 
 
 ### Configure
