@@ -1,3 +1,5 @@
+### Install
+
 `npm install -g sb-pubsub-cli`
 
 
